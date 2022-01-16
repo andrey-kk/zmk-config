@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: nice60
+  - board: nfrmicro_13
+    shield: nice60
